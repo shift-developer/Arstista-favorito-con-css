@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: black;
+}
+
+.encabezado {
+    background-color: red;
+    margin-bottom: 30px;
+    padding: 20px;
+    padding-left: 150px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    font-family: 'inconsolota', monospace;
+    font-weight: 100;
+}
+
+.eminem {
+    background-color:red;
+    padding: 2px;
+    width: 451px;
+    height: 400px;
+    margin-left: 150px;
+}
+
+.descripcion {
+    color: white;
+    font-family: 'oswald', sans-serif;
+    width: 451px;
+    margin: 10px;
+    margin-left: 150px;
+    text-align: justify;
+}
+
+h2 {
+    color: white;
+    font-size: 28px;
+    font-family: 'oswald', sans-serif;
+    text-transform: uppercase;
+    margin: 20px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    width: 451px;
+    background-color: red;
+}
+
+.discografia {
+    color: white;
+    font-family: 'oswald', sans-serif;
+    width: 451px;
+    margin: 10px;
+    margin-left: 170px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.canciones{
+    color: white;
+    font-family: 'oswald', sans-serif;
+    width: 451px;
+    margin: 10px;
+    margin-left: 165px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+a{
+    color: white;
+    font-family: 'oswald', sans-serif;
+    margin: 10px;
+    margin-left: 150px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.reproductor {
+    margin: 30px;
+    margin-left: 150px;
+}
+.video {
+    margin: 30px;
+    margin-left: 150px;
+}
+
+
+
